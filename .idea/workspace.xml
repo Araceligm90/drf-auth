@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="641afb35-aa90-4744-ba47-8ed5008b5d93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cities/migrations/0002_rename_created_by_city_owner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cities/permissions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cities/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cities/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_cities_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_cities_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_cities_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_cities_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <updated>1690820128232</updated>
       <workItem from="1690820129377" duration="5000" />
       <workItem from="1690820153652" duration="4010000" />
-      <workItem from="1690824177419" duration="6083000" />
+      <workItem from="1690824177419" duration="10134000" />
     </task>
     <servers />
   </component>
